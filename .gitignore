@@ -1,1 +1,6 @@
 /.vscode
+Basics_STL/*
+Practice/*
+!Basics_STL/*.cpp
+!Practice/*.cpp
+
